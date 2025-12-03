@@ -19,7 +19,7 @@ Modern, minimal, and professional UI
 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="iPreview/Retail Analysis Dashboard.png">
+  <img src="Preview/Retail Analysis Dashboard.png">
 </p>
 
 📂 Files Included
