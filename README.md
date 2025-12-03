@@ -1,6 +1,4 @@
-**📊 Retail Analysis Dashboard (Power BI)
-**
-A clean and simple Power BI dashboard built to analyze retail performance, customer behavior, and order trends.
+**📊 Retail Analysis Dashboard (Power BI)**
 
 **🔑 Key Features
 **
