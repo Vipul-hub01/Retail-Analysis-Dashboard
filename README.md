@@ -1,27 +1,42 @@
 📊 Retail Analysis Dashboard (Power BI)
 
-A simple and visually clean Power BI dashboard created to analyze retail performance, track orders, and understand customer trends.
+A clean and simple Power BI dashboard built to analyze retail performance, customer behavior, and order trends.
 
 🔑 Key Features
 
 Overview of Total Orders, Delivered, Shipped, Processing, Pending
 
-Monthly Order Trend line chart
+Monthly Order Trend visual
 
-Product Category Order Distribution (Electronics, Grocery, Clothing, Books, Home Decor)
+Product Category Distribution
 
-State-wise Order Map for geographical insights
+State-wise Order Map
 
 Order List Table with customer, product, and status details
 
-Easy-to-understand layout with modern UI
+Modern, minimal, and professional UI
+
+🖼️ Dashboard Preview
+
+(This will show the actual dashboard screenshot from your repository)
+
+![Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/your-screenshot-file.jpg)
+
+
+👉 Replace:
+
+your-username
+
+your-repo-name
+
+your-screenshot-file.jpg
 
 📂 Files Included
 
-Screenshots of the Dashboard
-(Power BI .pbix file and datasets cannot be uploaded due to GitHub size restrictions)
+Dashboard Screenshots
+(Power BI .pbix file and dataset are NOT included due to GitHub file size restrictions.)
 
-🛠 Tools Used
+🛠️ Tools Used
 
 Microsoft Power BI
 
@@ -33,4 +48,4 @@ Excel/CSV Data Sources
 
 📌 Note
 
-The original Power BI file and dataset are not included in this repository because of GitHub’s file size limitations.
+The original Power BI file (.pbix) and the dataset cannot be uploaded due to GitHub size limits.
