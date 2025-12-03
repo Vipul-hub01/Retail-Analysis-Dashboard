@@ -19,17 +19,8 @@ Modern, minimal, and professional UI
 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="images/Preview/Retail Analysis Dashboard.png">
+  <img src="iPreview/Retail Analysis Dashboard.png">
 </p>
-
-
-👉 Replace:
-
-your-username
-
-your-repo-name
-
-your-screenshot-file.jpg
 
 📂 Files Included
 
@@ -39,8 +30,6 @@ Dashboard Screenshots
 🛠️ Tools Used
 
 Microsoft Power BI
-
-Power Query
 
 DAX
 
