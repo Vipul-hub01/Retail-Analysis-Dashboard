@@ -20,7 +20,7 @@ Modern, minimal, and professional UI
 
 (This will show the actual dashboard screenshot from your repository)
 
-![Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/your-screenshot-file.jpg)
+![Dashboard Preview](Preview/Retail Analysis Dashboard.png)
 
 
 👉 Replace:
