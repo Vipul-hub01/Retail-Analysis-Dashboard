@@ -18,9 +18,9 @@ Modern, minimal, and professional UI
 
 🖼️ Dashboard Preview
 
-(This will show the actual dashboard screenshot from your repository)
-
-![Dashboard Preview](Preview/Retail Analysis Dashboard.png)
+<p align="center">
+  <img src="images/Preview/Retail Analysis Dashboard.png">
+</p>
 
 
 👉 Replace:
