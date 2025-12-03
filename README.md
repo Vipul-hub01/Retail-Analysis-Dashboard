@@ -1,7 +1,6 @@
 **📊 Retail Analysis Dashboard (Power BI)**
 
-**🔑 Key Features
-**
+**🔑 Key Features**
 Overview of Total Orders, Delivered, Shipped, Processing, Pending
 
 Monthly Order Trend visual
@@ -14,25 +13,21 @@ Order List Table with customer, product, and status details
 
 Modern, minimal, and professional UI
 
-**🖼️ Dashboard Preview
-**
+**🖼️ Dashboard Preview**
 <p align="center">
   <img src="Preview/Retail Analysis Dashboard.png">
 </p>
 
-**📂 Files Included
-**
+**📂 Files Included**
 Dashboard Screenshots
 (Power BI .pbix file and dataset are NOT included due to GitHub file size restrictions.)
 
-**🛠️ Tools Used
-**
+**🛠️ Tools Used**
 Microsoft Power BI
 
 DAX
 
 Excel/CSV Data Sources
 
-**📌 Note
-**
+**📌 Note**
 The original Power BI file (.pbix) and the dataset cannot be uploaded due to GitHub size limits.
